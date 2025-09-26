@@ -1,0 +1,36 @@
+DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8"
+<meta name="viewport" content="width=device-width", initial-scale="1">
+<header>
+    <nav>
+        <ul>
+            <li><a href="#">HOME</a></li>
+            <li><a href="#">PROFILES</a></li>
+            <li><a href="#">SINGLE</a></li>
+            <li><a href="#">MULTI</a></li>
+            <li><a href="#">MARKET</a></li>
+            <li><a href="#">LINKS</a></li>
+            <li><a href="#">CONTACT</a></li>
+            </li>
+        </ul>
+    </nav>
+</header>
+<head>
+<head>
+<title><h4>MULTI PROJECTS<h4></title>
+<!--CREATE MULTIPLE OWNER PROJECTS HERE-->
+<!--All owners of multi projects can register on this page and access from here-->
+
+<body>
+<!--CHOOSE A GROUP NAME FOR MULTI OWNED/OWNER PROJECTS-->
+<!--Your group projects can share a password between multiple owners-->
+<h3>Profile Registration<h3>
+    <form action="server.php" method="SUBMIT">
+    <!--fieldset & legend-->
+        <fieldset>
+        <legend>Personal Information</legend>
+
+        <!--Label & Input-->
+        <label for="name">FULL NAME:</label>
+        <input type="text" id="name" name="name" placeholder="Username" required>
