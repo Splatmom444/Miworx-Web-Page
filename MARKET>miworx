@@ -1,0 +1,32 @@
+<DOCTYPE! html>
+<html lang="en">
+<meta charset-"UTF=8">
+<meta name="viewport" content="width=device-width", initial-scale="1">
+<div>
+<header>
+    <nav>
+        <ul>
+            <li><a href="#">HOME</a></li>
+            <li><a href="#">PROFILES</a></li>
+            <li><a href="#">SINGLE</a></li>
+            <li><a href="#">MULTI</a></li>
+            <li><a href="#">MARKET</a></li>
+            <li><a href="#">LINKS</a></li>
+            <li><a href="#">CONTACT</a></li>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+
+<body>
+
+<title><h2>MARKET YOUR WORK<h2></title>
+<!--create and share  links to your completed articles stories, for prospective buyers here==>
+<input type="text" id="listMyArticle" name="listMyArticle" placeholder="Enter text link here"/>
+<title<h3>SMALL ENTRIES HERE<h3>/title>
+ <textarea id="smallEntries" name="smallEntries" rows="15" cols="4" placeholder="enter your text here"></textarea>
+
+
+
+
