@@ -1,0 +1,30 @@
+<DOCTYPE! html>
+<DOCTYPE! HTML>
+<html lang="en">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width", initial-scale="1">
+<header>
+    <nav>
+        <ul>
+            <li><a href="#">HOME</a></li>
+            <li><a href="#">PROFILES</a></li>
+            <li><a href="#">SINGLE</a></li>
+            <li><a href="#">MULTI</a></li>
+            <li><a href="#">MARKET</a></li>
+            <li><a href="#">LINKS</a></li>
+            <li><a href="#">CONTACT</a></li>
+            </li>
+        </ul>
+    </nav>
+</header>
+<head>
+
+<title><h2>Links/Projects<h2></title>
+<body>
+<!--all collaborators can leave links to profiles and other websites here with project#/lists-->
+
+
+
+
+
+<footer><h2>Owned by Christina Read &#169:2025<h2></footer>
