@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="styles.css"
+<title><h2>MIWORX FREELANCE SELL <h2><title>
+<p style="display: inline-block;">
+    <img src="C:\Users\geeks\Downloads\9CBA43EF-F8F0-41EA-AE8E-E18E520B5DB6.png ">
+    Miworx logo
+</p>
+    <nav>
+        <ul>
+            <li><a href="#">HOME</a></li>
+            <li><a> href="#">SUBSCRIPTION</a></li>
+            <li><a href="#">PROFILES</a></li>
+            <li><a href="#">SINGLE</a></li>
+            <li><a href="#">MULTI</a></li>
+            <li><a href="#">MARKET</a></li>
+            <li><a href="#">LINKS</a></li>
+            <li><a href="#">CONTACT</a></li>
+        </ul>
+    </nav>
+  </head>  
+<title>Profile Registration</title>
+    <form action="server.php" method="SUBMIT">
+
+        <fieldset>
+        <legend>Personal Information</legend>
+
+        <!--Label & Input-->
+        <label for="name">FULL NAME</label>
+        <input type="text" id="name" name="firstLast" placeholder="First,Last" required>
+        
+        <label for="name">USERNAME:</label>
+        <input type="text" id="name" name="name" placeholder="Username" required>
+=
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="password"> Password:</label>
+        <input type="password" id="password" name="password" required>
+
+<title><h1>SELECT PROJECT TYPE</h1></title>
+    <label for="Dropdown">Choose an Item</label>
+    <select id="Dropdown" name="selectedItem">
+        <option value="singleProject">single Project</option>
+        <option value="twoProject">two Project</option>
+        <option value="threeProject">three Project</option>
+        <option value="fourProject">four Project</option>
+        <option value="fiveProject">five Project</option>
+        <option value="sixProject">six Project</option>
+        <option value="sevenProject">seven Project</option>
+        <option value="eightProject">eight Project</option>
+        <option value="nineProject">nine Project</option>
+        <option value="tenProject">ten Project</option>
+        </select>
+        
+<footer>Owned by Christina Read &#169;2025</footer>
