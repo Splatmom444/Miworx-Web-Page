@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF=8">
+ <meta name="viewport" content="width=device-width" initial scale="1.0">
+ <link rel="stylesheet" href="miworx.css.html">
+
+ <head>
+    <link rel="stylesheet" href="style.css">
+    <title>SUBSCRIPTION PAGE</title>
+    <p style="display: inline-block;">
+    <img src="C:\Users\geeks\Downloads\9CBA43EF-F8F0-41EA-AE8E-E18E520B5DB6.png ">
+    Miworx logo
+</p>
+    </head>
+    <body>
+    <div class="header-container">
+    <div class="col-1">
+    <img class=logo src="images/C:\Users\geeks\Downloads\Miworx-Web-Page\9CBA43EF-F8F0-41EA-AE8E-E18E520B5DB6.png alt="logo">
+    <h1>class="title">SUBSCRIPTION PAGE</h1>
+    </div>
+    <div class="col-2"></div>
+        <h2>src="images/icon.png>OUR PLANS</h2>
+        <form>
+            <label for="free">
+            <input type="radio" name="plans" id="paid"
+            <span>$15<small>month</small></span>NO LIMITS
+            </label>
+            <br>
+            <p>YOUR NAME</p>
+            <input type="text" placeholder="enter your name">
+            <p>EMAIL ADDRESS</p>
+            <input type="email" placeholder="enter your email" >
+            <button type="submit">Subscribe</button>
+        </form>
+    </div>
+
+    </body>
+    <footer>Owned by Christina Read &#169;2025</footer>
+    </html>
