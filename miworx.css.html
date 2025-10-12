@@ -62,4 +62,56 @@ input[type="text"]:focus {
   border-color: #4CAF50; 
   box-shadow: 0 0 5px rgba(76, 175, 80, 0.5); 
 }
+/* Form Container */
+.registration-form {
+width: 400px;
+margin: 50px auto;
+padding: 30px;
+background-color: #fff;
+border-radius: 8px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
 
+/* Input Fields */
+.registration-form input[type="text"],
+.registration-form input[type="email"],
+.registration-form input[type="password"] {
+width: calc(100% - 20px); /* Account for padding */
+padding: 10px;
+margin-bottom: 15px;
+border: 1px solid #ccc;
+border-radius: 4px;
+font-size: 16px;
+}
+
+.registration-form input[type="text"]:focus,
+.registration-form input[type="email"]:focus,
+.registration-form input[type="password"]:focus {
+outline: none;
+border-color: #007bff;
+}
+
+/* Labels */
+.registration-form label {
+display: block;
+margin-bottom: 5px;
+font-weight: bold;
+color: #333;
+}
+
+/* Submit Button */
+.registration-form button[type="submit"] {
+width: 100%;
+padding: 12px;
+background-color: #007bff;
+color: white;
+border: none;
+border-radius: 4px;
+font-size: 18px;
+cursor: pointer;
+transition: background-color 0.3s ease;
+}
+
+.registration-form button[type="submit"]:hover {
+background-color: #0056b3;
+}
